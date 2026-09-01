@@ -30,7 +30,7 @@
 
 I’m **Muhammad Hunzla**, an **Applied AI Engineer & Software Engineer** with **6+ years of experience** building AI-enabled applications, intelligent automation systems, API-driven workflows, CRM solutions, and full-stack software for international clients.
 
-I like building practical systems where AI has a clear role - **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
+I like building practical systems where AI has a clear role **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
 
 - 🛰️ **I’m currently working on:** AI-powered applications, intelligent automation systems, AI agents, CRM workflows, and full-stack solutions.
 - 👯 **I’m looking to collaborate on:** Applied AI, Generative AI, AI agents, SaaS products, workflow automation, CRM platforms, and API-driven applications.

@@ -397,19 +397,17 @@ A reproducible Claude Code development environment designed around modular:
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub profile details" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub profile details" />
 
 <br/><br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub stats" />
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammed-Hunzla&theme=github_dark" alt="Languages by repository" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=Muhammed-Hunzla&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammed-Hunzla&theme=github_dark" alt="Languages by commits" />
-
-<img width="47%" src="https://streak-stats.demolab.com?user=Muhammed-Hunzla&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammed-Hunzla&theme=github_dark&utcOffset=5" alt="Productive time" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hunzla&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
 
 </div>
 

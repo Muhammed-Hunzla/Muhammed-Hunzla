@@ -393,21 +393,31 @@ A reproducible Claude Code development environment designed around modular:
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub profile details" />
+### Contribution Overview
 
-<br/><br/>
+<br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hunzla&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Muhammed-Hunzla&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hunzla&theme=github_dark" alt="Muhammad Hunzla GitHub contribution overview" />
 
-<br/><br/>
+<br/><br/><br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammed-Hunzla&theme=github_dark&utcOffset=5" alt="Productive time" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hunzla&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
+### Contribution Journey
+
+<p>
+A live view of my GitHub contribution history.
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-Hunzla/Muhammed-Hunzla/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-Hunzla/Muhammed-Hunzla/output/github-contribution-grid-snake.svg">
+  <img alt="Muhammad Hunzla contribution snake" src="https://raw.githubusercontent.com/Muhammed-Hunzla/Muhammed-Hunzla/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -415,17 +425,23 @@ A reproducible Claude Code development environment designed around modular:
 
 # 🏅 Professional Highlights
 
-<p>
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Applied_AI-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Intelligent_Automation-8b5cf6?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Engineering-API_Driven_Systems-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Full_Stack_Systems-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Delivery-End_to_End-059669?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/6%2B_Years-Software_%26_AI_Engineering-0ea5e9?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Applied_AI-22c55e?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Specialty-Intelligent_Automation-8b5cf6?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Engineering-API_Driven_Systems-2563eb?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Architecture-Full_Stack_Systems-7c3aed?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Delivery-End_to_End-059669?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -462,7 +478,7 @@ I’m interested in projects where **AI solves a real operational problem**.
 
 I enjoy building systems that combine:
 
-**AI + APIs + automation + business logic + data + human validation**
+### AI + APIs + Automation + Business Logic + Data + Human Validation
 
 If you're building:
 

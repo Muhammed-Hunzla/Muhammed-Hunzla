@@ -30,14 +30,14 @@
 
 I’m **Muhammad Hunzla**, an **Applied AI Engineer & Software Engineer** with **6+ years of experience** building AI-enabled applications, intelligent automation systems, API-driven workflows, CRM solutions, and full-stack software for international clients.
 
-I like building practical systems where AI has a clear role — **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
+I like building practical systems where AI has a clear role - **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
 
 - 🛰️ **I’m currently working on:** AI-powered applications, intelligent automation systems, AI agents, CRM workflows, and full-stack solutions.
 - 👯 **I’m looking to collaborate on:** Applied AI, Generative AI, AI agents, SaaS products, workflow automation, CRM platforms, and API-driven applications.
 - 🤝 **I’m looking for help with:** Open-source AI projects, advanced agentic systems, scalable AI architectures, and connecting with engineers building production AI products.
 - 🌱 **I’m currently learning:** Agentic AI, advanced LLM workflows, RAG systems, AI orchestration, cloud architecture, and production-grade AI engineering.
 - 💬 **Ask me about:** Python, Generative AI, AI automation, REST APIs, webhooks, CRM automation, GoHighLevel, Salesforce, HubSpot, workflow orchestration, and full-stack development.
-- ⚡ **Fun fact:** I’ve spent 6+ years across software engineering, automation, CRM systems, and AI — so I usually think about AI as part of a complete business system, not just a model or chatbot.
+- ⚡ **Fun fact:** I’ve spent 6+ years across software engineering, automation, CRM systems, and AI - so I usually think about AI as part of a complete business system, not just a model or chatbot.
 
 ---
 
@@ -112,13 +112,13 @@ Responsive interfaces, backend services, SQL databases, modular architectures, t
 ### 🧠 AI-Integrated CRM Lead Qualification & Routing Platform
 A modular workflow orchestration system combining **REST APIs, webhooks, behavioural triggers, customer data, AI-assisted processing, deterministic rules, validation, exception handling, and manual-review stages**.
 
-### 🌐 IRIS — AI-Integrated Full-Stack Applications
+### 🌐 IRIS - AI-Integrated Full-Stack Applications
 Full-stack applications combining **AI-assisted features with custom frontend, backend, API engineering, and third-party integrations**.
 
 ### 🎯 Intelligent Project-Matching Browser Extension
 A JavaScript browser extension that evaluates and ranks technical projects using **skill matching, keyword analysis, pattern recognition, DOM parsing, and weighted relevance scoring**.
 
-### 📱 Local's Club — Cross-Platform Mobile Application
+### 📱 Local's Club - Cross-Platform Mobile Application
 A cross-platform mobile app with **responsive UI, API integration, backend connectivity, and real-time data handling**.
 
 ---
@@ -141,9 +141,9 @@ A reproducible Claude Code environment built around modular **rules, skills, age
 
 | Period | Role | Focus |
 |---|---|---|
-| **2025 — Present** | Applied AI Engineer & Full-Stack Systems Consultant | AI-enabled applications, automation, APIs, CRM, architecture & delivery |
-| **2023 — 2025** | Software Engineer & Technical Solutions Lead — Redstone AI | AI-integrated CRM systems, routing logic, APIs, analytics & technical leadership |
-| **2020 — 2023** | Automation Engineer — SyNet Digital Marketing Co. | Workflow automation, integrations, lifecycle logic & data pipelines |
+| **2025 - Present** | Applied AI Engineer & Full-Stack Systems Consultant | AI-enabled applications, automation, APIs, CRM, architecture & delivery |
+| **2023 - 2025** | Software Engineer & Technical Solutions Lead - Redstone AI | AI-integrated CRM systems, routing logic, APIs, analytics & technical leadership |
+| **2020 - 2023** | Automation Engineer - SyNet Digital Marketing Co. | Workflow automation, integrations, lifecycle logic & data pipelines |
 | **2019** | Software Engineering Intern | Backend scripts, APIs, webhooks, frontend support, testing & QA |
 
 ---
@@ -192,7 +192,7 @@ Virtual University of Pakistan
 
 ## 🤝 Let's Build Something Useful
 
-I’m interested in projects where **AI solves a real operational problem** — not AI for the sake of AI.
+I’m interested in projects where **AI solves a real operational problem** - not AI for the sake of AI.
 
 If you're building **Applied AI systems, intelligent automation, CRM workflows, API integrations, SaaS products, or full-stack applications**, I'd be happy to connect.
 

@@ -125,13 +125,15 @@ A cross-platform mobile app with **responsive UI, API integration, backend conne
 
 ## 🧰 Open-Source Spotlight
 
-<div align="center">
+### ClaudeCode
 
+A reproducible Claude Code environment built around modular **rules, skills, agents, commands, hooks, MCP configuration, and reusable project templates**.
+
+<p>
 <a href="https://github.com/Muhammed-Hunzla/ClaudeCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hunzla&repo=ClaudeCode&hide_border=true&theme=transparent" alt="ClaudeCode repository" />
+  <img src="https://img.shields.io/badge/View_Repository-ClaudeCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ClaudeCode" />
 </a>
-
-</div>
+</p>
 
 ---
 
@@ -150,28 +152,29 @@ A cross-platform mobile app with **responsive UI, API integration, backend conne
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Hunzla&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=Muhammed-Hunzla&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hunzla&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hunzla&theme=github_dark&animation=load" alt="GitHub profile details" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Hunzla&hide_border=true&area=true&theme=github-compact" alt="Contribution graph" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hunzla&theme=github_dark&animation=load" alt="GitHub stats" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammed-Hunzla&theme=github_dark&animation=load" alt="Languages by repository" />
+
+<br/><br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammed-Hunzla&theme=github_dark&animation=load" alt="Languages by commits" />
+<img width="47%" src="https://streak-stats.demolab.com?user=Muhammed-Hunzla&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammed-Hunzla&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/6%2B_Years-Software_%26_AI_Engineering-0ea5e9?style=for-the-badge" alt="6+ years experience" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI-22c55e?style=for-the-badge" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Specialty-Intelligent_Automation-8b5cf6?style=for-the-badge" alt="Intelligent Automation" />
+</p>
 
 ---
 

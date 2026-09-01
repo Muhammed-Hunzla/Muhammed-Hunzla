@@ -30,7 +30,7 @@
 
 I’m **Muhammad Hunzla**, an **Applied AI Engineer & Software Engineer** with **6+ years of experience** building AI-enabled applications, intelligent automation systems, API-driven workflows, CRM solutions, and full-stack software for international clients.
 
-I like building practical systems where AI has a clear role **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
+I like building practical systems where AI has a clear role - **qualifying, routing, assisting, validating, automating, or helping people make better decisions**.
 
 - 🛰️ **I’m currently working on:** AI-powered applications, intelligent automation systems, AI agents, CRM workflows, and full-stack solutions.
 - 👯 **I’m looking to collaborate on:** Applied AI, Generative AI, AI agents, SaaS products, workflow automation, CRM platforms, and API-driven applications.
@@ -48,12 +48,14 @@ I like building practical systems where AI has a clear role **qualifying, routin
 <td width="50%" valign="top">
 
 ### 🤖 Applied AI Systems
+
 Generative AI integrations, prompt-driven workflows, AI-assisted automation, decision logic, validation layers, and human-in-the-loop systems.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Intelligent Automation
+
 Event-driven workflows, behavioural triggers, conditional routing, qualification systems, follow-up automation, and lifecycle orchestration.
 
 </td>
@@ -62,12 +64,14 @@ Event-driven workflows, behavioural triggers, conditional routing, qualification
 <td width="50%" valign="top">
 
 ### 🔌 APIs & Integrations
+
 REST APIs, webhooks, third-party integrations, backend automation, connected business systems, and data pipelines.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 Full-Stack Engineering
+
 Responsive interfaces, backend services, SQL databases, modular architectures, testing, deployment, and technical delivery.
 
 </td>
@@ -78,31 +82,108 @@ Responsive interfaces, backend services, SQL databases, modular architectures, t
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql&perline=6" alt="Languages" />
-</p>
+> My stack is built around **Applied AI, automation, APIs, data, CRM systems, and full-stack delivery**. I focus on technologies that help turn business requirements into reliable production systems.
 
-### 🤖 AI, Automation & CRM
+### 🤖 Applied AI & LLM Engineering
+
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logo=probot&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/GoHighLevel-111827?style=for-the-badge" alt="GoHighLevel" />
-  <img src="https://img.shields.io/badge/Salesforce-111827?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/HubSpot-111827?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-  <img src="https://img.shields.io/badge/Zoho_CRM-111827?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM" />
+  <img src="https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Prompt_Driven_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Workflows" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Automation-111827?style=for-the-badge&logo=probot&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Decision_Logic-111827?style=for-the-badge" alt="Decision Logic" />
+  <img src="https://img.shields.io/badge/Human_in_the_Loop-111827?style=for-the-badge" alt="Human in the Loop" />
+  <img src="https://img.shields.io/badge/Validation_%26_Output_QA-111827?style=for-the-badge" alt="Validation and QA" />
 </p>
 
-### 🔌 APIs, Data & Delivery
+### 👨‍💻 Programming & Web
+
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Webhooks-20232A?style=for-the-badge" alt="Webhooks" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql&perline=6" alt="Programming languages" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Data_Pipelines-20232A?style=for-the-badge" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🔌 Backend, APIs & Systems Integration
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-0f172a?style=for-the-badge" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/API_Architecture-0f172a?style=for-the-badge" alt="API Architecture" />
+  <img src="https://img.shields.io/badge/Third_Party_Integrations-0f172a?style=for-the-badge" alt="Third Party Integrations" />
+  <img src="https://img.shields.io/badge/Event_Driven_Workflows-0f172a?style=for-the-badge" alt="Event Driven Workflows" />
+  <img src="https://img.shields.io/badge/Backend_Automation-0f172a?style=for-the-badge" alt="Backend Automation" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-0f172a?style=for-the-badge" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/Integration_Architecture-0f172a?style=for-the-badge" alt="Integration Architecture" />
+</p>
+
+### ⚡ Automation, CRM & Business Systems
+
+<p>
+  <img src="https://img.shields.io/badge/GoHighLevel-172033?style=for-the-badge" alt="GoHighLevel" />
+  <img src="https://img.shields.io/badge/Salesforce-172033?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Salesforce_Flow-172033?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Flow" />
+  <img src="https://img.shields.io/badge/HubSpot-172033?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Zoho_CRM-172033?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM" />
+  <img src="https://img.shields.io/badge/Lead_Qualification-172033?style=for-the-badge" alt="Lead Qualification" />
+  <img src="https://img.shields.io/badge/Conditional_Routing-172033?style=for-the-badge" alt="Conditional Routing" />
+  <img src="https://img.shields.io/badge/Lifecycle_Automation-172033?style=for-the-badge" alt="Lifecycle Automation" />
+  <img src="https://img.shields.io/badge/Behavioral_Triggers-172033?style=for-the-badge" alt="Behavioral Triggers" />
+</p>
+
+### 🧩 Full-Stack & Application Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Full_Stack_Applications-1f2937?style=for-the-badge" alt="Full Stack Applications" />
+  <img src="https://img.shields.io/badge/Responsive_Interfaces-1f2937?style=for-the-badge" alt="Responsive Interfaces" />
+  <img src="https://img.shields.io/badge/Backend_Development-1f2937?style=for-the-badge" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Cross_Platform_Apps-1f2937?style=for-the-badge" alt="Cross Platform Apps" />
+  <img src="https://img.shields.io/badge/Browser_Extensions-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser Extensions" />
+  <img src="https://img.shields.io/badge/Modular_Architecture-1f2937?style=for-the-badge" alt="Modular Architecture" />
+  <img src="https://img.shields.io/badge/Solution_Design-1f2937?style=for-the-badge" alt="Solution Design" />
+</p>
+
+### 📊 Data, Analytics & Reporting
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Databases-20232A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Databases" />
+  <img src="https://img.shields.io/badge/ETL_Concepts-20232A?style=for-the-badge" alt="ETL" />
   <img src="https://img.shields.io/badge/Looker_Studio-20232A?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Google_Analytics_4-20232A?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4" />
-  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google_Analytics_4-20232A?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/Operational_Dashboards-20232A?style=for-the-badge" alt="Operational Dashboards" />
+  <img src="https://img.shields.io/badge/Data_Validation-20232A?style=for-the-badge" alt="Data Validation" />
+</p>
+
+### ☁️ Cloud, Version Control & Delivery
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Fundamentals-111827?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Testing_%26_QA-111827?style=for-the-badge" alt="Testing and QA" />
+  <img src="https://img.shields.io/badge/Agile_%26_Scrum-111827?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Scrum" />
+  <img src="https://img.shields.io/badge/Technical_Documentation-111827?style=for-the-badge" alt="Technical Documentation" />
+  <img src="https://img.shields.io/badge/Deployment_%26_Handover-111827?style=for-the-badge" alt="Deployment and Handover" />
+</p>
+
+### 🧠 Engineering Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Solution_Architecture-0f172a?style=for-the-badge" alt="Solution Architecture" />
+  <img src="https://img.shields.io/badge/Workflow_Orchestration-0f172a?style=for-the-badge" alt="Workflow Orchestration" />
+  <img src="https://img.shields.io/badge/Rule_Based_Systems-0f172a?style=for-the-badge" alt="Rule Based Systems" />
+  <img src="https://img.shields.io/badge/Exception_Handling-0f172a?style=for-the-badge" alt="Exception Handling" />
+  <img src="https://img.shields.io/badge/Fallback_Design-0f172a?style=for-the-badge" alt="Fallback Design" />
+  <img src="https://img.shields.io/badge/Requirements_Analysis-0f172a?style=for-the-badge" alt="Requirements Analysis" />
+  <img src="https://img.shields.io/badge/End_to_End_Delivery-0f172a?style=for-the-badge" alt="End to End Delivery" />
 </p>
 
 ---
@@ -110,15 +191,19 @@ Responsive interfaces, backend services, SQL databases, modular architectures, t
 ## 🚀 Featured Projects
 
 ### 🧠 AI-Integrated CRM Lead Qualification & Routing Platform
+
 A modular workflow orchestration system combining **REST APIs, webhooks, behavioural triggers, customer data, AI-assisted processing, deterministic rules, validation, exception handling, and manual-review stages**.
 
 ### 🌐 IRIS - AI-Integrated Full-Stack Applications
+
 Full-stack applications combining **AI-assisted features with custom frontend, backend, API engineering, and third-party integrations**.
 
 ### 🎯 Intelligent Project-Matching Browser Extension
+
 A JavaScript browser extension that evaluates and ranks technical projects using **skill matching, keyword analysis, pattern recognition, DOM parsing, and weighted relevance scoring**.
 
 ### 📱 Local's Club - Cross-Platform Mobile Application
+
 A cross-platform mobile app with **responsive UI, API integration, backend connectivity, and real-time data handling**.
 
 ---
